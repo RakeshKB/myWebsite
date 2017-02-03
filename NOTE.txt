@@ -1,0 +1,13 @@
+Create a folder
+run npm init
+fill all details
+add required packages
+run npm install
+git init
+create a git repository
+git remote add origin https://github.com/RakeshKB/myWebsite.git
+git remote -v
+if a readme.md file is initialized then run git pull
+Otherwwise do git pull
+git status
+git add filename
